@@ -1,4 +1,7 @@
 # Musique
+A front-end music player project with play/pause, shuffle, repeat and playlist features. 
+Made using HTML, CSS, JavaScript.
+
 ## Screenshots
 <img width="922" alt="image" src="https://user-images.githubusercontent.com/97721201/176611217-4c70417a-2270-405c-9902-49923c65b4be.png">
 
